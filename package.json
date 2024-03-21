@@ -1,0 +1,42 @@
+{
+  "name": "quilaborum",
+  "version": "1.9.1",
+  "description": "Squeezer agnostic blockchain integration",
+  "keywords": [
+    "numquam",
+    "voluptas",
+    "bitcoin",
+    "ethereum",
+    "solidity",
+    "sol",
+    "utils",
+    "squeezer",
+    "utility",
+    "web3"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FreidaFarrell/quilaborum.git"
+  },
+  "author": "ArielleLind",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FreidaFarrell/quilaborum.git/issues"
+  },
+  "homepage": "https://github.com/FreidaFarrell/quilaborum.git",
+  "dependencies": {
+    "quisimpedit": "^1.0.0",
+    "quocommodi": "^1.0.0",
+    "request": "^2.86.0",
+    "request-promise": "^4.2.2",
+    "similiquefacere": "^1.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.9.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.7.0"
+  }
+}
